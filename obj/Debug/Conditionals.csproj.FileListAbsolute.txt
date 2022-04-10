@@ -1,0 +1,6 @@
+C:\Data\Projects\CSharpFundamentals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Data\Projects\CSharpFundamentals\Conditionals\bin\Debug\Conditionals.exe
+C:\Data\Projects\CSharpFundamentals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Data\Projects\CSharpFundamentals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Data\Projects\CSharpFundamentals\Conditionals\obj\Debug\Conditionals.exe
+C:\Data\Projects\CSharpFundamentals\Conditionals\obj\Debug\Conditionals.pdb
